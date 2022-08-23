@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
     background-color: greenyellow;
     color: blue;
@@ -10,3 +11,10 @@
     display: inline-flex;
     flex-direction: column;
 }
+=======
+ body{
+    background-color: whitesmoke;
+ }
+
+ 
+>>>>>>> 8ebd27bda73e116855009be21ba6fccd9fc2bc7a
